@@ -25,7 +25,7 @@ int main()
 	//Message de bienvenue, et le programme demande les informations dont le programme a besoins.
 	location = 45;
 	essence = 1.25;
-	//nombre virgule ne fonctionne pas, solution prochainement ;
+	//nombre a virgule fonctionne maintenant
 
 	std::cout << "Bienvenue. Veuillez entrer le nombre de kilomètre parcouru : ";
 	std::cin >> kiloP;
